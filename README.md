@@ -11,6 +11,7 @@ Biblioteca pública de direção de arte, branding, design gráfico e publicidad
 - [BIBLIOTECA-GITHUB.md](BIBLIOTECA-GITHUB.md) — repositórios verificados, organizados por uso.
 - [COMPOSICOES-OCIDENTAIS.md](COMPOSICOES-OCIDENTAIS.md) — técnicas escolhidas do atlas de 350 layouts, adaptadas ao português e à publicidade ocidental.
 - [AUTOMOTIVO-TOYOTA.md](AUTOMOTIVO-TOYOTA.md) — direções criativas, referências iniciais e checklist para Toyota/concessionárias.
+- [TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md](TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md) — **regras do Brandbook Toyota Brasil 2026 enviado pelo cliente**, especialmente comunicação da rede. O original e os ZIPs devem permanecer em acervo privado.
 
 ## Comando inicial para usar com ChatGPT
 
