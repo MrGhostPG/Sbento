@@ -42,3 +42,10 @@ observacoes: verificar equipamento, rodas, emblema e acabamento
 ```
 
 **Não copiar imagens para o repositório público; não publicar fontes licenciadas ou logos de terceiros; não hotlinkar arquivos se os termos impedirem.** Projetos criativos podem usar as imagens originais de um acervo privado quando a Mirai/Toyota autorizar. Não confundir página de imprensa histórica com foto da versão atual.
+
+
+## Inventário auditado em 04/11/2026
+- [Relatório de auditoria](AUDITORIA-2026-11-04.md)
+- [Inventário estruturado](inventario-oficial-2026-11-04.json)
+
+**Estado:** fontes oficiais de modelo e referências de imagem documentadas; **nenhum arquivo fotográfico de fabricante foi importado ou licenciado neste repositório**. Para materiais publicitários, recuperar o original autorizado no acervo privado e validar variante, ano e cor. Respeitar o [Brandbook Toyota Brasil 2026 — guia](../TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md).
