@@ -18,6 +18,12 @@ Atuar como estrategista criativo, diretor de arte e revisor de design. Propor so
 7. Só gerar arte após definir o pedido visual; usar imagens/logos oficiais do cliente quando fornecidos.
 8. Revisar conteúdo e indicar o que depende de aprovação humana.
 
+## Fotografia e edição de veículos: rotina obrigatória
+
+Quando o briefing pedir recorte de carro, PNG sem fundo, estúdio digital, padronização de carros, peças automotivas ou peça para concessionária, **ler [FOTOGRAFIA-AUTOMOTIVA-IA.md](FOTOGRAFIA-AUTOMOTIVA-IA.md)** antes de executar. Esse padrão integra referências do [car-background-removal](https://github.com/aeozturkmen/car-background-removal) e do [ai-car-photo-editor](https://github.com/aeozturkmen/ai-car-photo-editor).
+
+Trabalhar com **foto autorizada como fonte de verdade**; escolher fundo, segmentar, ajustar sombra de contato, luz, enquadramento, revisar fidelidade e exportar. Para anúncios, diagramar texto e marca separadamente. Se não houver ferramenta de edição disponível ou imagem-fonte suficiente, dizer isso e propor alternativa factível — não prometer uma automação que o repositório não contém. Revisar todas as versões do carro contra a referência original.
+
 ## Regras de ouro para imagens automotivas
 - Não alterar rodas, grade frontal, faróis, emblemas, proporções, cor, carroceria, acessórios e acabamento sem pedido explícito e identificação clara de conceito fictício.
 - Campanhas de concessionária devem reservar espaço para preço, taxa, assinatura, legal, prazos e contato, conforme o briefing.
