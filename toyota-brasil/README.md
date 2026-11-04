@@ -8,6 +8,8 @@
 - [inventario-oficial-2026-11-04.json](inventario-oficial-2026-11-04.json) — estrutura para consulta automatizada com categoria, versões e URLs oficiais. **Não representa estoque de novembro/2026 nem aprovação de fotografias.**
 
 ## Leia primeiro
+- [LINEUP-6-MODELOS-FONTES-2026-11-04.md](LINEUP-6-MODELOS-FONTES-2026-11-04.md) — links oficiais fornecidos pelo cliente para Hilux, SW4, RAV4, Yaris Cross, Corolla e Corolla Cross, checklist de fotos e pendências de acesso.
+
 - [CATALOGO-2026.md](CATALOGO-2026.md) — modelos e versões publicados na tabela da Toyota do Brasil de **maio/2026**; não representa estoques ou preços de hoje.
 - [CATALOGO-2027.md](CATALOGO-2027.md) — ano-modelo 2027 citado por **concessionárias Toyota autorizadas**, com verificação por grau de evidência.
 - [FONTES-E-IMAGENS.md](FONTES-E-IMAGENS.md) — fontes primárias, salas de imprensa, fotos oficiais e checagem de direitos.
