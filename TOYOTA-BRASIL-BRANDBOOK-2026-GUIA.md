@@ -29,6 +29,8 @@
 
 O Brandbook indica também Pantone 186 C para Toyota Red e regras de reprodução para impressão. **Não usar paletas estrangeiras como substitutas do documento brasileiro enviado.**
 
+**Atualização 04/11/2026:** foram recebidos **19 arquivos tipográficos** (Toyota Type: 12; Toyota Text: 4; Toyota Display: 3). Inventário completo, nomes, funções e hashes: [TOYOTA-BRASIL-TIPOGRAFIA-2026.md](TOYOTA-BRASIL-TIPOGRAFIA-2026.md) e [manifesto JSON](toyota-brasil/tipografia-fontes-2026.json). Para a rede concessionária, Toyota Type é a família prescrita neste Brandbook. O recebimento de Toyota Text e Toyota Display não autoriza automaticamente seu uso nas campanhas da Mirai; verificar aprovação e licença. **Não publicar TTF nem PDF no repositório público.**
+
 ## Tipografia — páginas 133–136
 - Família oficial: **Toyota Type**, com variações **Light, Book, Regular, Italic, Semibold e Bold**.
 - Usar **Toyota Type Bold** para chamadas e títulos de maior destaque, respeitando hierarquia e legibilidade; Regular/Book/Light em textos e informações conforme caso.
