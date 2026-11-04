@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0.0",
+  "catalogo": "Toyota Brasil - Creative Brain",
+  "data_verificacao": "2026-11-04",
+  "observacao": "Não confundir ano de fabricação com ano-modelo. Sem preços atuais, licenças de imagem ou aprovação de anúncio.",
+  "prioridade_fontes": [
+    "toyota.com.br",
+    "media.toyota.com.br",
+    "toyotacomunica.com.br",
+    "rede autorizada brasileira",
+    "imprensa especializada (contexto, não comprovação)"
+  ],
+  "modelos": [
+    {
+      "id": "corolla",
+      "nome": "Corolla",
+      "categoria": "Sedã",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/corolla",
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/produto/corolla/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "XEi 2.0",
+          "Altis Premium 2.0",
+          "GLi Hybrid",
+          "Altis Hybrid Premium",
+          "GR-Sport 2.0"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "identificado_na_rede_autorizada; conferir versão/estoque",
+        "versoes_observadas": [
+          "Altis Premium 26/27 — oferta localizada na rede Grand Brasil; confirmar versão, cor e disponibilidade"
+        ]
+      },
+      "cuidados_de_fidelidade_visual": "Família sedã: não confundir Corolla combustão, Corolla Hybrid e Corolla GR-Sport; cada versão pode trazer grade, roda, acabamento e assinatura próprios.",
+      "links_rede_2027": [
+        "https://www.expoentetoyota.com.br/",
+        "https://grandbrasil.com.br/toyota/",
+        "https://tsusho.com.br/"
+      ],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "corolla-cross",
+      "nome": "Corolla Cross",
+      "categoria": "SUV",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/corolla-cross",
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/produto/corolla-cross/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "XR",
+          "XRE",
+          "XRX FFV",
+          "XRX Hybrid",
+          "GR-Sport",
+          "GR-Sport Dualtone"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "identificado_na_rede_autorizada; conferir versão/estoque",
+        "versoes_observadas": [
+          "XR",
+          "XRE",
+          "XRX",
+          "XRX Hybrid",
+          "GR-Sport",
+          "GR-Sport Dualtone — ofertas da rede autorizada; confirmar por chassi/ano e versão"
+        ]
+      },
+      "cuidados_de_fidelidade_visual": "Evitar misturar Corolla Cross híbrido com flex. Versão GR-Sport e Dualtone exigem imagens corretas, incluindo acabamento/rodas.",
+      "links_rede_2027": [
+        "https://www.expoentetoyota.com.br/",
+        "https://grandbrasil.com.br/toyota/",
+        "https://tsusho.com.br/"
+      ],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "yaris-cross",
+      "nome": "Yaris Cross",
+      "categoria": "SUV compacto",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/yaris-cross",
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/toyota-yaris-cross-estreia-versao-xr-e-amplia-presenca-do-suv-compacto-no-segmento/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "XR 1.5",
+          "XRE 1.5",
+          "XRX 1.5",
+          "XRE Hybrid",
+          "XRX Hybrid"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "identificado_na_rede_autorizada; conferir versão/estoque",
+        "versoes_observadas": [
+          "XR",
+          "XRE",
+          "XRX",
+          "XRE Hybrid",
+          "XRX Hybrid — ofertas da rede autorizada; verificar especificação"
+        ]
+      },
+      "cuidados_de_fidelidade_visual": "Não usar imagens de Yaris hatch/sedã antigo nem Yaris Cross importado de outros mercados. Distinguir modelo híbrido flex de 1.5 flex.",
+      "links_rede_2027": [
+        "https://www.expoentetoyota.com.br/",
+        "https://grandbrasil.com.br/toyota/",
+        "https://tsusho.com.br/"
+      ],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "hilux",
+      "nome": "Hilux",
+      "categoria": "Picape",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+      "fonte_montadora_secundaria": "https://www.toyota.com.br/modelos/hilux-cabine-simples",
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/produto/hilux/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "Cabine Dupla: STD Power Pack MT",
+          "Cabine Dupla: STD Power Pack AT",
+          "Cabine Dupla: SR AT",
+          "Cabine Dupla: SRV AT",
+          "Cabine Dupla: SRX AT",
+          "Cabine Dupla: SRX Plus AT",
+          "Cabine Simples: CS 4x4 MT/AT",
+          "Chassi: chassi cabine simples 4x4 MT/AT"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "nao_confirmado_nesta_pesquisa",
+        "versoes_observadas": []
+      },
+      "cuidados_de_fidelidade_visual": "Três carrocerias práticas: cabine dupla, cabine simples e chassi; não misturar fotos. Evitar render 2027 de nova geração de outros mercados como a Hilux brasileira.",
+      "links_rede_2027": [],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "sw4",
+      "nome": "SW4",
+      "categoria": "SUV grande",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/sw4",
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": null,
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "SRX Platinum 5 lugares",
+          "SRX Platinum 7 lugares",
+          "Diamond"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "nao_confirmado_nesta_pesquisa",
+        "versoes_observadas": []
+      },
+      "cuidados_de_fidelidade_visual": "Usar SW4 de fato vendido no Brasil e identificar versão; flagras ou projeções de geração futura não podem virar peça de produto nacional.",
+      "links_rede_2027": [],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "rav4",
+      "nome": "RAV4 Hybrid",
+      "categoria": "SUV híbrido",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/rav4",
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/novo-toyota-rav4-estreia-no-brasil-com-duas-versoes-hibridas-full-maistecnologia-e-preco-a-partir-de-r-317-mil/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "HEV AWD S",
+          "HEV AWD SX"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "nao_confirmado_nesta_pesquisa",
+        "versoes_observadas": []
+      },
+      "cuidados_de_fidelidade_visual": "A nova geração RAV4 HEV brasileira 2026 tem acabamento S e SX; não confundir com RAV4 antigo, PHEV estrangeiro ou RAV4 de outros mercados.",
+      "links_rede_2027": [],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "hiace",
+      "nome": "Hiace",
+      "categoria": "Comercial",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/hiace",
+      "fonte_montadora_secundaria": "https://www.toyota.com.br/modelos/hiace-furgao",
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/category/produtos/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "Minibus AT DX — ano fabricação 2025/modelo 2026 na tabela de maio",
+          "Furgão AT DX — ano fabricação 2025/modelo 2026 na tabela de maio"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "nao_confirmado_nesta_pesquisa",
+        "versoes_observadas": []
+      },
+      "cuidados_de_fidelidade_visual": "Minibus de passageiros e Furgão de carga não devem compartilhar fotografia. Conferir cabine, janelas, portas e capacidade.",
+      "links_rede_2027": [],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "gr-yaris",
+      "nome": "GR Yaris",
+      "categoria": "Esportivo",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/gr-yaris",
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/gr-yaris-chega-as-lojas-com-primeiro-lote-totalmente-vendido-antes-mesmo-da-estreia-no-brasil/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "GR Yaris MT (manual)",
+          "GR Yaris AT (automático)"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "nao_confirmado_nesta_pesquisa",
+        "versoes_observadas": []
+      },
+      "cuidados_de_fidelidade_visual": "Série comercializada em 2026, com carroceria hot hatch, dianteira específica e teto de fibra de carbono. Portal externo lista 2027, mas nesta versão do catálogo não há confirmação nacional de MY27.",
+      "links_rede_2027": [],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "gr-corolla",
+      "nome": "GR Corolla",
+      "categoria": "Esportivo",
+      "pais": "BR",
+      "fonte_montadora": "https://www.toyota.com.br/modelos/gr-corolla",
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": "https://www.toyotacomunica.com.br/produto/corolla/",
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_tabela_oficial_2026",
+        "versoes": [
+          "GR Corolla Circuit MT — listado na tabela oficial de maio de 2026 como Corolla HB Circuit"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "nao_confirmado_nesta_pesquisa",
+        "versoes_observadas": []
+      },
+      "cuidados_de_fidelidade_visual": "Modelo de produção limitada; o registro de tabela não comprova disponibilidade de estoque atual. Nunca substituir visual pelo Corolla sedã GR-Sport.",
+      "links_rede_2027": [],
+      "fonte_tabela_2026": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf"
+    },
+    {
+      "id": "bz4x",
+      "nome": "bZ4X",
+      "categoria": "SUV 100% elétrico",
+      "pais": "BR",
+      "fonte_montadora": null,
+      "fonte_montadora_secundaria": null,
+      "fonte_imprensa_montadora": null,
+      "ano_modelo_2026": {
+        "confirmacao": "confirmado_por_rede_autorizada; ainda não cruzado com tabela oficial nacional",
+        "versoes": [
+          "BEV AWD — listado em revendedores autorizados em 2026"
+        ]
+      },
+      "ano_modelo_2027": {
+        "confirmacao": "nao_confirmado_nesta_pesquisa",
+        "versoes_observadas": []
+      },
+      "cuidados_de_fidelidade_visual": "Encontrado em sites de concessionárias autorizadas com ano/modelo 2026; não localizado nesta rodada no menu principal da montadora Toyota Brasil ou na tabela nacional de maio 2026. Considerar imagem/versão comercial como pendente de checagem com a Mirai antes de produzir peça.",
+      "links_rede_2027": [],
+      "fonte_tabela_2026": null
+    }
+  ],
+  "fontes_imagens": [
+    "https://www.toyotacomunica.com.br/downloads/",
+    "https://www.toyota.com.br/"
+  ],
+  "cautela": "As fotos são links de referência e requerem direito de uso. As versões listadas têm validade no respectivo material de origem."
+}
