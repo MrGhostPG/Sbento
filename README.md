@@ -13,6 +13,8 @@ Biblioteca pública de direção de arte, branding, design gráfico e publicidad
 - [AUTOMOTIVO-TOYOTA.md](AUTOMOTIVO-TOYOTA.md) — direções criativas, referências iniciais e checklist para Toyota/concessionárias.
 - [FOTOGRAFIA-AUTOMOTIVA-IA.md](FOTOGRAFIA-AUTOMOTIVA-IA.md) — pipeline de recorte, sombras realistas, fidelidade do carro, consistência visual e exportação; referências dos guias car-background-removal e ai-car-photo-editor.
 - [TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md](TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md) — **regras do Brandbook Toyota Brasil 2026 enviado pelo cliente**, especialmente comunicação da rede. O original e os ZIPs devem permanecer em acervo privado.
+- [TOYOTA-BRASIL-TIPOGRAFIA-2026.md](TOYOTA-BRASIL-TIPOGRAFIA-2026.md) — **consulta obrigatória** de 19 fontes Toyota recebidas, hierarquia tipográfica, usos prescritos pelo Brandbook e controles para peças Mirai; arquivos originais permanecem privados.
+- [toyota-brasil/tipografia-fontes-2026.json](toyota-brasil/tipografia-fontes-2026.json) — inventário técnico e hashes SHA-256 para conferir os 19 TTF fornecidos (sem publicar os binários).
 
 - [toyota-brasil/](toyota-brasil/) — **catálogo Toyota Brasil 2026–2027**, com fichas por modelo, verificação da procedência das imagens, fontes e regras de campanhas da Mirai.
 - [toyota-brasil/AUDITORIA-2026-11-04.md](toyota-brasil/AUDITORIA-2026-11-04.md) — auditoria de 9 famílias e 36 configurações e seus limites de confirmação.
