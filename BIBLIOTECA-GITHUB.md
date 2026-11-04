@@ -28,6 +28,14 @@ Links públicos identificados e repositórios verificados por consulta ao GitHub
 | [jiji262/claude-design-skill](https://github.com/jiji262/claude-design-skill) | Referências de artefatos visuais e processos de design de layouts; sistema originalmente criado para ambientes de agentes. |
 | [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) | Arte gerativa, sistemas gráficos e experimentação. |
 
+## Fotografia automotiva, recorte e edição por IA — PRIORIDADE 1
+| Referência | Aplicação no fluxo São Bento |
+|---|---|
+| [aeozturkmen/car-background-removal](https://github.com/aeozturkmen/car-background-removal) | Guia de segmentação de veículos, escolha de fundo, sombra de contato realista, placas e consistência de catálogo. **Documentação, não software instalável.** |
+| [aeozturkmen/ai-car-photo-editor](https://github.com/aeozturkmen/ai-car-photo-editor) | Critérios para avaliar ferramentas automotivas de IA: fidelidade da foto, preservação do veículo, sombra, iluminação, lotes, padronização e operações de concessionária. **Documentação, não software instalável.** |
+
+**Procedimento interno unificado:** [FOTOGRAFIA-AUTOMOTIVA-IA.md](FOTOGRAFIA-AUTOMOTIVA-IA.md) — briefing, recorte, luz, sombra, verificação de fidelidade e exportação para campanhas Toyota/Mirai. Os guias são de Ahmet Eren Öztürkmen (Car Studio AI), com licença CC BY 4.0; usar como referência com crédito, sem presumir acesso gratuito ao software comercial.
+
 ## Como extrair valor
 1. **Conhecimento**: ler README, métodos e exemplos; registrar princípios aplicáveis.
 2. **Referência**: escolher estilo e técnica para briefing específico.
