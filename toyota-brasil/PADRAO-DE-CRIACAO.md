@@ -15,6 +15,7 @@
 ## Layout e aprovação
 1. Aplicar [Brandbook Toyota Brasil 2026](../TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md); para dealer usar assinatura **Toyota + concessionária** aprovada pela Mirai (seção 106–152 do Brandbook).
 2. Criar direção de arte conforme [atlas ocidental](../COMPOSICOES-OCIDENTAIS.md): composição hero, foco único, contraste, hierarquia e respiro.
+   **Tipografia obrigatória:** consultar [inventário das fontes Toyota 2026](../TOYOTA-BRASIL-TIPOGRAFIA-2026.md) e o [manifesto de integridade dos 19 TTF](tipografia-fontes-2026.json). Priorizar Toyota Type nos pesos recomendados nas págs. 133–136; não aplicar Toyota Text/Display sem aprovação específica; não publicar os arquivos proprietários.
 3. Distinguir campanha institucional, lançamento, varejo, pós-vendas e acessório.
 4. Preço, descontos, taxa, garantia, estoque e mensagem comercial precisam de verificação humana.
 5. Usar textos próprios da campanha e todas as condições legais obrigatórias para o canal.
