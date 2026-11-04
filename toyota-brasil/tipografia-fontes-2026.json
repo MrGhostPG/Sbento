@@ -1,0 +1,203 @@
+{
+  "schema": "sbento.toyota.font-inventory.v1",
+  "created": "2026-11-04",
+  "source": "19 arquivos TTF enviados diretamente pelo cliente em 04/11/2026",
+  "authority": "BRANDBOOK TOYOTA DO BRASIL 2026.pdf (acervo privado)",
+  "repository_public": true,
+  "binaries_committed": false,
+  "original_pdf_committed": false,
+  "policy": "Fonte prescrita no Brandbook da rede: Toyota Type. Toyota Text e Toyota Display: catalogadas, uso específico exige confirmação; não disponibilizar binários no repositório público.",
+  "fsType_note": "fsType=4 observado nos 19 arquivos: parâmetro técnico de incorporação (preview/print), não licença de redistribuição.",
+  "files": [
+    {
+      "filename": "ToyotaType-Black.ttf",
+      "family": "Toyota Type Black",
+      "style": "Regular",
+      "postscript": "ToyotaType-Black",
+      "sha256": "a5c6e494890bc1a8e6cf3f8e134afa4165c201842da01c6db7255f71b9c59d1c",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-BlackIt.ttf",
+      "family": "Toyota Type Black",
+      "style": "Italic",
+      "postscript": "ToyotaType-BlackIt",
+      "sha256": "67a7a986cab8e70797d055a6c369048d5029c6913afd5c3ba09cd7f82a6cb863",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-Bold.ttf",
+      "family": "Toyota Type",
+      "style": "Bold",
+      "postscript": "ToyotaType-Bold",
+      "sha256": "e7cccc1f2496c82b6c46ba81408e794186299f9994c92d4cf9cd9171702ac640",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-BoldIt.ttf",
+      "family": "Toyota Type",
+      "style": "Bold Italic",
+      "postscript": "ToyotaType-BoldIt",
+      "sha256": "84f37f7013f8201b4dbfdf997a1b2e4cd2dcecbac796ea42486b370d19808051",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-Book.ttf",
+      "family": "Toyota Type Book",
+      "style": "Regular",
+      "postscript": "ToyotaType-Book",
+      "sha256": "acdc6e31261a19f2d3383c9552d8b6a0833a22a7976e113232c7793983fcd0a6",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-BookIt.ttf",
+      "family": "Toyota Type Book",
+      "style": "Italic",
+      "postscript": "ToyotaType-BookIt",
+      "sha256": "c9eb676a5fdf44678fc193e774aa062c3115ced48aac72673e689f8c570531fd",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-Italic.ttf",
+      "family": "Toyota Type",
+      "style": "Italic",
+      "postscript": "ToyotaType-Italic",
+      "sha256": "1dbbf8aee53bc60f6f371dfbfc4eb39d4de43c62676379e9675391bdbfe38381",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-Light.ttf",
+      "family": "Toyota Type Light",
+      "style": "Regular",
+      "postscript": "ToyotaType-Light",
+      "sha256": "af161c085be1f0f93bea9625cdbd5f3bcd8790a3370e17ce09757190452877e8",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-LightIt.ttf",
+      "family": "Toyota Type Light",
+      "style": "Italic",
+      "postscript": "ToyotaType-LightIt",
+      "sha256": "58fc2f4eab8cc5787e2c417255f394856ae2ac2e8cd8480433e85a4c4e46cd9b",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-Regular.ttf",
+      "family": "Toyota Type",
+      "style": "Regular",
+      "postscript": "ToyotaType-Regular",
+      "sha256": "5072e6b4047ae86f1a71d26cc439cadb08fc2cffa7abd3451ad1d38c7e3ed852",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-Semibold.ttf",
+      "family": "Toyota Type Semibold",
+      "style": "Regular",
+      "postscript": "ToyotaType-Semibold",
+      "sha256": "c6bc0d39321ed7c7a4ab222dc787cb9c9c4a7b011701393f761dc89ff391807a",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaType-SemiboldIt.ttf",
+      "family": "Toyota Type Semibold",
+      "style": "Italic",
+      "postscript": "ToyotaType-SemiboldIt",
+      "sha256": "0c3854360baabf336991b2c0fc197bafb18e0c0d9848acf45e3ed246b0d7a0f9",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": true,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaText_Bold.ttf",
+      "family": "Toyota Text",
+      "style": "Bold",
+      "postscript": "ToyotaText-Bold",
+      "sha256": "f2e49fdcfd15a48da1eb8cf43c0ad8df5d083b0af1bbb7f0cf02a8947c5fdf20",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaText_BdIt.ttf",
+      "family": "Toyota Text",
+      "style": "Bold Italic",
+      "postscript": "ToyotaText-BoldItalic",
+      "sha256": "c74fe532f61588fdb1433f9edc97747c28b23a6b188871dc0dba9a3316a12cad",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaText_It.ttf",
+      "family": "Toyota Text",
+      "style": "Italic",
+      "postscript": "ToyotaText-Italic",
+      "sha256": "8bdd74c7b35bc1544dae756682edcdfdc8c19441899820ec20714014c7380147",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaText_Rg.ttf",
+      "family": "Toyota Text",
+      "style": "Regular",
+      "postscript": "ToyotaText-Regular",
+      "sha256": "6c6bb60729c6a70dd72e92d77e5e77a8f1e374505c28f3b3f908d03d31be3700",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaDisplay_Bd.ttf",
+      "family": "Toyota Display",
+      "style": "Bold",
+      "postscript": "ToyotaDisplay-Bold",
+      "sha256": "20853570c93ecf4844a67538ec81e398033179d8a48c29ce98967996758f897f",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaDisplay_He.ttf",
+      "family": "Toyota Display Heavy",
+      "style": "Regular",
+      "postscript": "ToyotaDisplay-Heavy",
+      "sha256": "553563f80fc78e9eeaac817810a37284bb42394358df46a673211f5f4d62eefc",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    },
+    {
+      "filename": "ToyotaDisplay_Rg.ttf",
+      "family": "Toyota Display",
+      "style": "Regular",
+      "postscript": "ToyotaDisplay-Regular",
+      "sha256": "1afcf190eaa846e46121de9ba6fce4688a5ff4b3f715ee16fe0db8f64e307f82",
+      "fsType": 4,
+      "brandbook_dealer_prescribed": false,
+      "usage_authorization": "verify_private_license"
+    }
+  ]
+}
