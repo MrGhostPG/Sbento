@@ -13,6 +13,8 @@ Biblioteca pública de direção de arte, branding, design gráfico e publicidad
 - [AUTOMOTIVO-TOYOTA.md](AUTOMOTIVO-TOYOTA.md) — direções criativas, referências iniciais e checklist para Toyota/concessionárias.
 - [TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md](TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md) — **regras do Brandbook Toyota Brasil 2026 enviado pelo cliente**, especialmente comunicação da rede. O original e os ZIPs devem permanecer em acervo privado.
 
+- [toyota-brasil/](toyota-brasil/) — **catálogo Toyota Brasil 2026–2027**, com fichas por modelo, verificação da procedência das imagens, fontes e regras de campanhas da Mirai.
+
 ## Comando inicial para usar com ChatGPT
 
 > Consulte o repositório GitHub `MrGhostPG/Sbento`, especialmente `AGENTS.md`, `METODO-CRIATIVO.md` e `COMPOSICOES-OCIDENTAIS.md`. Atue como parceiro de direção de arte para a São Bento. Meu briefing é: [descrição]. Crie três rotas visuais diferentes, explique cada composição e proponha copy, imagem e execução técnica.
