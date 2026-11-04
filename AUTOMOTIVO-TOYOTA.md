@@ -42,6 +42,17 @@ Nota de 0 a 5 em cada campo: **(a) originalidade do conceito, (b) composição e
 - Preços, menções a peças e garantias e textos legais devem ser conferidos antes de publicação.
 - Prioridade cultural: português brasileiro, valores de consumidor local, sem importar campanhas de outros mercados como se fossem ofertas do Brasil.
 
+## Recorte de veículos e fotografia realista para anúncios
+
+Para montagens de carros oficiais, campanhas da Mirai Toyota e imagens de estoque, aplicar obrigatoriamente o processo de [FOTOGRAFIA-AUTOMOTIVA-IA.md](FOTOGRAFIA-AUTOMOTIVA-IA.md), sintetizado a partir dos guias [car-background-removal](https://github.com/aeozturkmen/car-background-removal) e [ai-car-photo-editor](https://github.com/aeozturkmen/ai-car-photo-editor).
+
+- **Recorte:** preservar exatamente contornos, emblemas, rodas, vidros, antenas e os reflexos pertinentes ao original; verificar halos.
+- **Integração:** sombra de contato plausível sob os pneus e iluminação consistente entre carro e fundo; evitar veículo flutuante ou excessivamente retocado.
+- **Fidelidade:** não transformar o carro em modelo fictício, não alterar versão/cor/peças/avarias em imagens de venda. Trabalhar preferencialmente com fotos originais autorizadas.
+- **Visual de agência:** concept e key visual antes dos efeitos. Montar texto, preços, logos oficiais e legais em camadas editáveis, com hierarquia clara.
+- **Desdobramento:** adaptar separadamente composição do feed e Stories, sem distorcer o veículo nem reduzir demais as condições comerciais.
+- **Ferramentas:** estes dois repositórios são guias, não modelos de IA instaláveis. Consulta ao conteúdo não fornece automaticamente funções de remoção de fundo.
+
 ## Pipeline de pesquisa profissional
 1. Longlist por plataforma (portfólios, agências, campanhas publicadas, canais oficiais).
 2. Deduplicar imagens e registrar autoria/origem.
