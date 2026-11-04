@@ -2,6 +2,11 @@
 
 **São Bento Creative Brain / curadoria de 04/11/2026** · Esta biblioteca atende peças de concessionária, direção de arte, fotografia, vídeo e prompts de geração de imagem. **Somente variantes comprovadamente destinadas ao mercado brasileiro podem ser usadas como veículos nacionais.**
 
+
+## Auditoria oficial consolidada — 04/11/2026
+- [AUDITORIA-2026-11-04.md](AUDITORIA-2026-11-04.md) — relatório de verificação de **9 famílias e 36 configurações** da tabela oficial de maio/2026, com limites de evidência e política de fotos.
+- [inventario-oficial-2026-11-04.json](inventario-oficial-2026-11-04.json) — estrutura para consulta automatizada com categoria, versões e URLs oficiais. **Não representa estoque de novembro/2026 nem aprovação de fotografias.**
+
 ## Leia primeiro
 - [CATALOGO-2026.md](CATALOGO-2026.md) — modelos e versões publicados na tabela da Toyota do Brasil de **maio/2026**; não representa estoques ou preços de hoje.
 - [CATALOGO-2027.md](CATALOGO-2027.md) — ano-modelo 2027 citado por **concessionárias Toyota autorizadas**, com verificação por grau de evidência.
