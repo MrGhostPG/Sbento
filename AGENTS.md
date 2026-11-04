@@ -24,6 +24,10 @@ Quando o briefing pedir recorte de carro, PNG sem fundo, estúdio digital, padro
 
 Trabalhar com **foto autorizada como fonte de verdade**; escolher fundo, segmentar, ajustar sombra de contato, luz, enquadramento, revisar fidelidade e exportar. Para anúncios, diagramar texto e marca separadamente. Se não houver ferramenta de edição disponível ou imagem-fonte suficiente, dizer isso e propor alternativa factível — não prometer uma automação que o repositório não contém. Revisar todas as versões do carro contra a referência original.
 
+## Toyota Brasil / Mirai — tipografia e marca obrigatórias
+
+Antes de criar QUALQUER campanha, imagem diagramada, vídeo com lettering, peça impressa, landing page ou apresentação para Toyota/Mirai, consultar **[TOYOTA-BRASIL-TIPOGRAFIA-2026.md](TOYOTA-BRASIL-TIPOGRAFIA-2026.md)** e **[TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md](TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md)**. Conferir a seção da rede concessionária (págs. 106–152), especialmente tipografia (133–136), assinatura, cores e margens. Usar **Toyota Type com o peso/estilo real apropriado**, não substituição casual nem simulação por distorção. As famílias Toyota Text e Toyota Display estão inventariadas, mas sua aplicação em peça de dealer não está automaticamente liberada apenas por terem sido recebidas. Os arquivos de fonte devem vir de um acervo privado autorizado, **nunca deste repositório público**. Qualquer ambiguidade de uso exige verificação antes de publicar.
+
 ## Regras de ouro para imagens automotivas
 - Não alterar rodas, grade frontal, faróis, emblemas, proporções, cor, carroceria, acessórios e acabamento sem pedido explícito e identificação clara de conceito fictício.
 - Campanhas de concessionária devem reservar espaço para preço, taxa, assinatura, legal, prazos e contato, conforme o briefing.
