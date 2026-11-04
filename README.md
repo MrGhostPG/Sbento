@@ -5,6 +5,7 @@
 Biblioteca pública de direção de arte, branding, design gráfico e publicidade aplicada a campanhas empresariais. Repertório visual + método criativo + modelos de briefing, para diminuir retrabalho e elevar a qualidade.
 
 ## Comece aqui
+- [INSTRUCOES-PROJETO-CHATGPT.md](INSTRUCOES-PROJETO-CHATGPT.md) — texto para colocar nas instruções do projeto ChatGPT e exigir consulta ao repositório em novos briefings.
 - [AGENTS.md](AGENTS.md) — comportamento e critérios do copiloto criativo.
 - [METODO-CRIATIVO.md](METODO-CRIATIVO.md) — etapas do briefing à entrega.
 - [BRIEFING-PADRAO.md](BRIEFING-PADRAO.md) — modelo enxuto para iniciar uma peça.
