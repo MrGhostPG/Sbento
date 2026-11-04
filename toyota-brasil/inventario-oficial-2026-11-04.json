@@ -1,0 +1,466 @@
+{
+  "schema_version": "2.0.0",
+  "nome": "Inventário oficial Toyota Brasil — São Bento Creative Brain",
+  "data_auditoria": "2026-11-04",
+  "periodo_da_tabela_oficial": "2026-05",
+  "escopo": "Famílias confirmadas por tabela oficial brasileira e subdivisões editoriais do portal Toyota Brasil",
+  "confianca": {
+    "fabricante_tabela": "modelo e versão comprovados no PDF oficial de maio de 2026; não comprova estoque hoje",
+    "fabricante_site": "página oficial da Toyota Brasil indexada; acesso direto ao site apresentou restrição de consulta",
+    "rede_autorizada": "oferta publicada por concessionária brasileira autorizada; não equivale a confirmação nacional de todos os modelos ou versões",
+    "historico_ou_pendente": "manter fora de peças de lançamento ou anúncio de versão até revalidar com Toyota/Mirai"
+  },
+  "fontes_principais": [
+    {
+      "tipo": "catalogo_oficial",
+      "url": "https://media.toyota.com.br/b78fafa9-80f6-4a16-90f6-99e31640f403.pdf",
+      "data_referencia": "2026-05"
+    },
+    {
+      "tipo": "site_fabricante",
+      "url": "https://www.toyota.com.br/",
+      "observacao": "menu capturado por indexação; acesso direto pode falhar"
+    },
+    {
+      "tipo": "imagens_institucionais",
+      "url": "https://www.toyotacomunica.com.br/downloads/",
+      "observacao": "somente referência e licença sujeita a verificação"
+    },
+    {
+      "tipo": "rede_autorizada",
+      "url": "https://grandbrasil.com.br/toyota/",
+      "observacao": "ofertas de 2026/2027 e bZ4X: confirmação de rede, não catálogo nacional"
+    }
+  ],
+  "familias": [
+    {
+      "id": "corolla",
+      "nome": "Corolla",
+      "segmento": "Sedã",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "Corolla",
+          "url": "https://www.toyota.com.br/modelos/corolla",
+          "confirmacao": "fabricante_site"
+        },
+        {
+          "rotulo": "Corolla Hybrid",
+          "url": "https://www.toyota.com.br/modelos/corolla-hybrid/monte",
+          "confirmacao": "fabricante_site"
+        },
+        {
+          "rotulo": "Corolla GR-Sport",
+          "url": "https://www.toyota.com.br/modelos/corolla-gr-sport",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "XEi",
+          "motor": "2.0L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "Altis Premium",
+          "motor": "2.0L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "GR-Sport (GR-S)",
+          "motor": "2.0L Flex",
+          "grupo": "esportivo_versao"
+        },
+        {
+          "nome": "GLi Hybrid",
+          "motor": "hibrido",
+          "grupo": "hibrido"
+        },
+        {
+          "nome": "Altis Hybrid Premium",
+          "motor": "hibrido",
+          "grupo": "hibrido"
+        }
+      ],
+      "nota_fidelidade": "GR-Sport é versão do Corolla sedã; não confundir com GR Corolla hatch. Verificar grade, rodas e motorização da versão fotografada.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": [
+        "https://www.toyotacomunica.com.br/produto/corolla/"
+      ]
+    },
+    {
+      "id": "corolla-cross",
+      "nome": "Corolla Cross",
+      "segmento": "SUV",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "Corolla Cross",
+          "url": "https://www.toyota.com.br/modelos/corolla-cross",
+          "confirmacao": "fabricante_site"
+        },
+        {
+          "rotulo": "Corolla Cross Hybrid",
+          "url": "https://www.toyota.com.br/modelos/corolla-cross-hybrid",
+          "confirmacao": "fabricante_site"
+        },
+        {
+          "rotulo": "Corolla Cross GR-Sport",
+          "url": null,
+          "confirmacao": "menu_oficial_indexado",
+          "observacao": "rota específica de página não validada; consultar menu Toyota Brasil"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "XR",
+          "motor": "2.0L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "XRE",
+          "motor": "2.0L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "XRX FFV",
+          "motor": "2.0L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "XRX Hybrid",
+          "motor": "hibrido",
+          "grupo": "hibrido"
+        },
+        {
+          "nome": "GR-Sport",
+          "motor": "2.0L Flex",
+          "grupo": "esportivo_versao"
+        },
+        {
+          "nome": "GR-Sport Dualtone",
+          "motor": "2.0L Flex",
+          "grupo": "esportivo_versao"
+        }
+      ],
+      "nota_fidelidade": "Não misturar XRX Hybrid e XRX Flex; GR-Sport Dualtone requer teto/acabamento de cor corretos.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": [
+        "https://www.toyotacomunica.com.br/produto/corolla-cross/"
+      ]
+    },
+    {
+      "id": "yaris-cross",
+      "nome": "Yaris Cross",
+      "segmento": "SUV compacto",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "Yaris Cross",
+          "url": "https://www.toyota.com.br/modelos/yaris-cross",
+          "confirmacao": "fabricante_site"
+        },
+        {
+          "rotulo": "Yaris Cross Hybrid",
+          "url": "https://www.toyota.com.br/modelos/yaris-cross-hybrid",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "XR",
+          "motor": "1.5L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "XRE",
+          "motor": "1.5L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "XRX",
+          "motor": "1.5L Flex",
+          "grupo": "combustao"
+        },
+        {
+          "nome": "XRE Hybrid",
+          "motor": "hibrido flex",
+          "grupo": "hibrido"
+        },
+        {
+          "nome": "XRX Hybrid",
+          "motor": "hibrido flex",
+          "grupo": "hibrido"
+        }
+      ],
+      "nota_fidelidade": "Usar carroceria brasileira Yaris Cross 2026; não importar imagens de Yaris hatch/sedã ou SUV de outro mercado.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": [
+        "https://media.toyota.com.br/2671c5a6-5110-4329-8372-da9258e20bdf.pdf"
+      ]
+    },
+    {
+      "id": "hilux",
+      "nome": "Hilux",
+      "segmento": "Picape",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "Hilux Cabine Dupla",
+          "url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "confirmacao": "fabricante_site"
+        },
+        {
+          "rotulo": "Hilux Cabine Simples / Chassi",
+          "url": "https://www.toyota.com.br/modelos/hilux-cabine-simples",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "STD Power Pack 4x4 MT",
+          "motor": "diesel",
+          "grupo": "cabine_dupla"
+        },
+        {
+          "nome": "STD Power Pack 4x4 AT",
+          "motor": "diesel",
+          "grupo": "cabine_dupla"
+        },
+        {
+          "nome": "SR AT",
+          "motor": "diesel",
+          "grupo": "cabine_dupla"
+        },
+        {
+          "nome": "SRV AT",
+          "motor": "diesel",
+          "grupo": "cabine_dupla"
+        },
+        {
+          "nome": "SRX AT",
+          "motor": "diesel",
+          "grupo": "cabine_dupla"
+        },
+        {
+          "nome": "SRX Plus AT",
+          "motor": "diesel",
+          "grupo": "cabine_dupla"
+        },
+        {
+          "nome": "Cabine Simples 4x4",
+          "motor": "diesel",
+          "grupo": "cabine_simples",
+          "observacao": "tabela cita versões com e sem marcação AT"
+        },
+        {
+          "nome": "Cabine Simples 4x4 AT",
+          "motor": "diesel",
+          "grupo": "cabine_simples"
+        },
+        {
+          "nome": "Chassi Cabine Simples 4x4",
+          "motor": "diesel",
+          "grupo": "chassi_cabine"
+        },
+        {
+          "nome": "Chassi Cabine Simples 4x4 AT",
+          "motor": "diesel",
+          "grupo": "chassi_cabine"
+        }
+      ],
+      "nota_fidelidade": "Três silhuetas de carroceria (dupla, simples, chassi). Não substituir modelo brasileiro por Hilux de geração lançada fora do país.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": [
+        "https://media.toyota.com.br/2d1a2fae-9343-4788-b9b7-4494b1a02932.pdf",
+        "https://www.toyotacomunica.com.br/produto/hilux/"
+      ]
+    },
+    {
+      "id": "sw4",
+      "nome": "SW4",
+      "segmento": "SUV grande",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "SW4",
+          "url": "https://www.toyota.com.br/modelos/sw4",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "SRX Platinum 5S",
+          "motor": "diesel",
+          "grupo": "suv"
+        },
+        {
+          "nome": "SRX Platinum 7S",
+          "motor": "diesel",
+          "grupo": "suv"
+        },
+        {
+          "nome": "Diamond",
+          "motor": "diesel",
+          "grupo": "suv"
+        }
+      ],
+      "nota_fidelidade": "Verificar diferenças de acabamento, grade, rodas e opção 5/7 lugares. Não presumir MY2027.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": []
+    },
+    {
+      "id": "rav4",
+      "nome": "RAV4 Hybrid",
+      "segmento": "SUV híbrido",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "RAV4",
+          "url": "https://www.toyota.com.br/modelos/rav4",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "HEV AWD S (4WD S)",
+          "motor": "2.5L HEV",
+          "grupo": "hibrido"
+        },
+        {
+          "nome": "HEV AWD SX (4WD SX)",
+          "motor": "2.5L HEV",
+          "grupo": "hibrido"
+        }
+      ],
+      "nota_fidelidade": "Nova geração lançada no Brasil em 2026; fotos da geração anterior ou PHEV de outros mercados não correspondem ao carro brasileiro.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": [
+        "https://www.toyotacomunica.com.br/novo-toyota-rav4-estreia-no-brasil-com-duas-versoes-hibridas-full-maistecnologia-e-preco-a-partir-de-r-317-mil/"
+      ]
+    },
+    {
+      "id": "hiace",
+      "nome": "Hiace",
+      "segmento": "Comercial",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "Hiace Minibus",
+          "url": "https://www.toyota.com.br/modelos/hiace",
+          "confirmacao": "fabricante_site"
+        },
+        {
+          "rotulo": "Hiace Furgão",
+          "url": "https://www.toyota.com.br/modelos/hiace-furgao",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "Minibus AT DX",
+          "motor": "diesel",
+          "grupo": "minibus"
+        },
+        {
+          "nome": "Furgão AT DX",
+          "motor": "diesel",
+          "grupo": "furgao"
+        }
+      ],
+      "nota_fidelidade": "Minibus e Furgão têm janelas e interior diferentes; a tabela de maio traz fabricação 2025/modelo 2026.",
+      "ano_modelo_tabela": "2025/2026",
+      "fontes_adicionais": [
+        "https://media.toyota.com.br/77d31546-3090-47af-a911-1540e7c2695d.pdf"
+      ]
+    },
+    {
+      "id": "gr-yaris",
+      "nome": "GR Yaris",
+      "segmento": "Esportivo",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "GR Yaris",
+          "url": "https://www.toyota.com.br/modelos/gr-yaris",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "GR Yaris HB MT",
+          "motor": "1.6L T 4WD",
+          "grupo": "esportivo"
+        },
+        {
+          "nome": "GR Yaris HB AT",
+          "motor": "1.6L T 4WD",
+          "grupo": "esportivo"
+        }
+      ],
+      "nota_fidelidade": "Hatch esportivo específico; carros de homologação e séries numeradas exigem confirmação exata de ano/versão e autorização do material.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": [
+        "https://www.toyotacomunica.com.br/gr-yaris-chega-as-lojas-com-primeiro-lote-totalmente-vendido-antes-mesmo-da-estreia-no-brasil/"
+      ]
+    },
+    {
+      "id": "gr-corolla",
+      "nome": "GR Corolla",
+      "segmento": "Esportivo",
+      "status": "fabricante_tabela",
+      "paginas_oficiais": [
+        {
+          "rotulo": "GR Corolla",
+          "url": "https://www.toyota.com.br/modelos/gr-corolla",
+          "confirmacao": "fabricante_site"
+        }
+      ],
+      "versoes_2026": [
+        {
+          "nome": "Corolla HB Circuit MT",
+          "motor": "1.6L T 4WD",
+          "grupo": "esportivo"
+        }
+      ],
+      "nota_fidelidade": "GR Corolla hatch de edição limitada NÃO é Corolla sedã GR-Sport; estoque atual necessita confirmação independente.",
+      "ano_modelo_tabela": "2026/2026",
+      "fontes_adicionais": []
+    }
+  ],
+  "registros_nao_confirmados_pelo_catalogo_montadora": [
+    {
+      "id": "bz4x",
+      "nome": "bZ4X",
+      "categoria": "SUV elétrico",
+      "status": "rede_autorizada",
+      "fontes": [
+        "https://grandbrasil.com.br/toyota/"
+      ],
+      "ano_modelo_observado": "2026/2026",
+      "observacao": "Rede autorizada anuncia bZ4X BEV AWD e BEV AWD Dual Tone; não aparece na tabela nacional de maio de 2026 nem no menu recuperado da montadora. Verificar com Toyota Brasil e Mirai antes de produzir campanha ou apresentar como linha nacional confirmada."
+    }
+  ],
+  "itens_nao_incluir_sem_revalidacao": [
+    "Yaris hatch/sedã descontinuados",
+    "Camry (sem presença confirmada no menu atual)",
+    "GR Corolla Core 2024 listado esgotado na rede",
+    "Hilux/SW4 de geração internacional 2027 não confirmada para Brasil",
+    "outros modelos Toyota vendidos só em outros países"
+  ],
+  "politica_imagens": {
+    "modo": "somente links para páginas de origem e autorização",
+    "biblioteca_fotos_institucionais": "https://www.toyotacomunica.com.br/downloads/",
+    "armazenar_binarios_em_repositorio_publico": false,
+    "imagem_hero_aprovada_por_versao": false,
+    "imagem_url_direta_por_versao": null,
+    "criterio": "Solicitar ativo original homologado pela Mirai/Toyota e arquivar em biblioteca privada; não inferir fotografia oficial apenas pelo modelo."
+  },
+  "linha_2027": "Evidências de ofertas 2026/2027 em concessionárias autorizadas para Corolla, Corolla Cross e Yaris Cross; confirmar unidade e estoque. Não promover os demais como MY2027 sem fonte nacional.",
+  "cautelas": [
+    "Fonte primária de versões é uma tabela histórica de maio de 2026, não comprova disponibilidade em novembro",
+    "Site principal consultado por índice de busca pois a navegação direta teve bloqueio",
+    "Preço/estoque/cores não foram cadastrados como atuais",
+    "Carro anunciado com foto deve ser confrontado com ano, versão, cor e homologação brasileira"
+  ]
+}
