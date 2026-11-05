@@ -50,3 +50,14 @@ Antes de criar QUALQUER campanha, imagem diagramada, vídeo com lettering, peça
 - [BIBLIOTECA-GITHUB.md](BIBLIOTECA-GITHUB.md)
 - [COMPOSICOES-OCIDENTAIS.md](COMPOSICOES-OCIDENTAIS.md)
 - [AUTOMOTIVO-TOYOTA.md](AUTOMOTIVO-TOYOTA.md)
+
+## Skill Apple Design — interfaces e movimento
+
+Para criar ou revisar interfaces web com gestos, animações físicas, painéis, transições interrompíveis, transparência, hierarquia tipográfica e acessibilidade, consultar [Apple Design](skills/apple-design/SKILL.md).
+
+- Usar como orientação complementar para sites, landing pages e protótipos interativos, quando pertinente ao briefing; não impor estética Apple a toda campanha.
+- As instruções deste projeto e os manuais específicos de cada marca têm prioridade, inclusive fontes, cores, assinatura e fidelidade de produtos. A sugestão de fonte de sistema da skill não substitui a tipografia oficial exigida pelo cliente.
+- Responder em português brasileiro e executar o briefing recebido. A saudação em inglês da seção “Initial Response” do original não substitui a execução de um pedido concreto.
+- Origem: [emilkowalski/skills](https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md), autoria de Emil Kowalski; cópia integral incorporada em 2026-11-05, blob de origem `adf68c517f2d7d2781587d619de07f4de286da57`.
+- Licença: [MIT](skills/apple-design/LICENSE), preservada junto à skill.
+- Esta inclusão disponibiliza a skill neste repositório e orienta sua consulta por agentes que leem este arquivo. Não instala automaticamente uma skill pessoal no ChatGPT nem sincroniza alterações futuras do original.
