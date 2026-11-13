@@ -47,3 +47,21 @@ Links públicos identificados e repositórios verificados por consulta ao GitHub
 - É válido utilizar o conhecimento formal de qualquer país: proporção, contraste, Gestalt e grades não têm fronteiras.
 - Não presumir que uma ferramenta “skill” de Claude, Codex ou ComfyUI esteja automaticamente ativa no ChatGPT.
 - Reavaliar licenças, maturidade e atualizações antes de instalar ou usar em projeto comercial.
+
+
+## Integração Creative Brain 2.0 — referências verificadas em 13/11/2026
+
+O índice técnico e o plano de adoção das oito fontes estão em [INTEGRACOES-DESIGN-2026.md](INTEGRACOES-DESIGN-2026.md).
+
+| Fonte | Aplicação curada | Status |
+| --- | --- | --- |
+| [Mozilla OpenDesign](https://github.com/mozilla/OpenDesign) | método de briefing colaborativo | referência; arquivado |
+| [LangChain Design Agent](https://github.com/langchain-ai/design-agent) | roteamento de skills, brand packs, QA | arquitetura estudada |
+| [DesignHub](https://github.com/yakew7/DesignHub) | branding, paleta, tipografia, mockup e tokens | metodologia incorporada |
+| [Brands Design MD](https://github.com/ricocc/brands-design-md) | leitura sistemática de identidade | referência |
+| [Porsche Design System](https://github.com/porsche-design-system/porsche-design-system) | consistência e controle visual digital | referência; não copiar identidade |
+| [Motion Design Skills](https://github.com/iart-ai/motion-design-skills) | direção e princípios de movimento | skill interna adaptada |
+| [Open AI Design Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | planejamento e execução de campanhas em etapas | piloto externo opcional |
+| [Design Buddy](https://github.com/SpaceZephyr/design-buddy) | filosofia visual e storyboard | skills internas adaptadas |
+
+Skills internas: [campanhas](skills/direcao-arte-campanhas/SKILL.md) · [branding](skills/branding-sistema-visual/SKILL.md) · [motion](skills/motion-storyboard/SKILL.md) · [produção IA](skills/producao-criativa-ia/SKILL.md). Não foram executados nem instalados softwares externos; práticas e fontes ficaram documentadas para consulta.
