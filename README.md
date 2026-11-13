@@ -35,3 +35,16 @@ Biblioteca pública de direção de arte, branding, design gráfico e publicidad
 **Estado:** primeira versão de conhecimento e processos. Referências externas são links; não estão automaticamente instaladas no Mac ou no ChatGPT. GitHub não treina o modelo permanentemente; o ChatGPT precisa consultar os arquivos.
 
 *Curadoria inicial: novembro de 2026.*
+
+
+## Creative Brain 2.0 — expansão de design (13/11/2026)
+
+**Nova curadoria:** [INTEGRACOES-DESIGN-2026.md](INTEGRACOES-DESIGN-2026.md) — oito projetos externos analisados, prioridades, compatibilidade e limitações.
+
+**Novas skills internas de direção:**
+- [Direção de arte e campanhas](skills/direcao-arte-campanhas/SKILL.md)
+- [Branding e sistema visual](skills/branding-sistema-visual/SKILL.md)
+- [Motion e storyboard](skills/motion-storyboard/SKILL.md)
+- [Produção criativa com IA](skills/producao-criativa-ia/SKILL.md)
+
+Estas skills são documentação operacional interna em PT-BR, não instalação de apps externos ou skills do ChatGPT. O `AGENTS.md` orienta os agentes a consultá-las quando pertinentes ao briefing; os manuais oficiais dos clientes prevalecem.
