@@ -11,6 +11,7 @@ Biblioteca pública de direção de arte, branding, design gráfico e publicidad
 - [BRIEFING-PADRAO.md](BRIEFING-PADRAO.md) — modelo enxuto para iniciar uma peça.
 - [BIBLIOTECA-GITHUB.md](BIBLIOTECA-GITHUB.md) — repositórios verificados, organizados por uso.
 - [COMPOSICOES-OCIDENTAIS.md](COMPOSICOES-OCIDENTAIS.md) — técnicas escolhidas do atlas de 350 layouts, adaptadas ao português e à publicidade ocidental.
+- [INSPIRACOES-VISUAIS-2026-11.md](INSPIRACOES-VISUAIS-2026-11.md) — referências visuais do briefing de novembro/2026, princípios de composição e aplicação responsável.
 - [AUTOMOTIVO-TOYOTA.md](AUTOMOTIVO-TOYOTA.md) — direções criativas, referências iniciais e checklist para Toyota/concessionárias.
 - [FOTOGRAFIA-AUTOMOTIVA-IA.md](FOTOGRAFIA-AUTOMOTIVA-IA.md) — pipeline de recorte, sombras realistas, fidelidade do carro, consistência visual e exportação; referências dos guias car-background-removal e ai-car-photo-editor.
 - [TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md](TOYOTA-BRASIL-BRANDBOOK-2026-GUIA.md) — **regras do Brandbook Toyota Brasil 2026 enviado pelo cliente**, especialmente comunicação da rede. O original e os ZIPs devem permanecer em acervo privado.
